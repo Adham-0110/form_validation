@@ -1,0 +1,22 @@
+body{
+    background-color: orchid;
+}
+
+.form__container{
+    padding: 20px;
+    width: 300px;
+    justify-self: center;
+    margin-top: 150px;
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    
+}
+.nameerror,
+.phoneerror,
+.emailerror {
+    color: red;
+    display: none;
+
+}
